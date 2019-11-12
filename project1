@@ -1,1 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Proejct1 Page</title>
+</head>
+
+<body>
+  <!-- Header -->
+  <h1>Project1</h1>
+
+  <!-- Image -->
+  <img src="/IMG_6040.JPG" alt="Nothing to see" />
+  <br>
+
+</p>
+<ul>
+  <li>link 1</li>
+  <li>link 2</li>
+  <li>link 3</li>
+
+</ul>
+
+    </table>
+    <p>
+</html>
 
