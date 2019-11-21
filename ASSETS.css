@@ -97,3 +97,15 @@ h5 {
   font-size: 100px;
 }
 @media(max-width: 600px)
+@media print {
+    body, h1, h2, h3, ol, ul, div, span, p {
+        display: block !important;
+        width: auto !important;
+        float: none !important;
+        position: static !important;
+        overflow: visible !important;
+    }
+
+    ...
+    ...
+}
